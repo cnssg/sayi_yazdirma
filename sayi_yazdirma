@@ -1,0 +1,5 @@
+hundred = len("cccccccccc")
+one = len("c")
+
+for i in range(hundred*hundred+one):
+    print(i)
